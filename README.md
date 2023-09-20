@@ -1,2 +1,3 @@
 # GPT-Trainable
 可以训练的GPT模型，70参数起步
+部署请到modelscope或者fork本仓库后codespace使用
